@@ -2,8 +2,6 @@ package sort.heap;
 
 import java.util.Arrays;
 
-import org.apache.commons.lang3.RandomUtils;
-
 public class Heap {
 
 	public static void main(String args[]) {
